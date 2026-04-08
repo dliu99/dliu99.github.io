@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This Privacy Policy applies to the GradeCow app ("Application") developed by Devin Liu ("Service Provider"). The Application is provided "AS IS".
+This Privacy Policy applies to the marks app ("Application") developed by Devin Liu ("Service Provider"). The Application is provided "AS IS".
 
 ## Information Collection and Use
 
